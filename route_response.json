@@ -1,0 +1,184 @@
+{
+  "routes": [
+    {
+      "id": "R0",
+      "sections": [
+        {
+          "id": "R0-S0",
+          "type": "pedestrian",
+          "departure": {
+            "time": "2025-02-06T08:01:00+01:00",
+            "place": {
+              "type": "place",
+              "location": {
+                "lat": 49.64,
+                "lng": 6.27
+              }
+            }
+          },
+          "arrival": {
+            "time": "2025-02-06T08:07:00+01:00",
+            "place": {
+              "name": "Munsbach, Parc d'Activit\u00e9 Syrdall",
+              "type": "station",
+              "location": {
+                "lat": 49.638355,
+                "lng": 6.268031
+              },
+              "id": "68498_6467"
+            }
+          },
+          "polyline": "BGog51-Ci92-LjDhB_YAnGUriB8BzKnBzKrEjDvC_E3D7GzKrEzKjDnLnB_OoBvRUjNA_EArEAvMTrJTvRoGvC4D7BmFlD",
+          "transport": {
+            "mode": "pedestrian"
+          }
+        },
+        {
+          "id": "R0-S1",
+          "type": "transit",
+          "departure": {
+            "time": "2025-02-06T08:07:00+01:00",
+            "place": {
+              "name": "Munsbach, Parc d'Activit\u00e9 Syrdall",
+              "type": "station",
+              "location": {
+                "lat": 49.638355,
+                "lng": 6.268031
+              },
+              "id": "68498_6467"
+            }
+          },
+          "arrival": {
+            "time": "2025-02-06T08:17:00+01:00",
+            "place": {
+              "name": "Kirchberg, Gare routi\u00e8re Luxexpo",
+              "type": "station",
+              "location": {
+                "lat": 49.636375,
+                "lng": 6.174766
+              },
+              "id": "68498_4936"
+            }
+          },
+          "polyline": "BHwu74yd853x3DnzB8fvlB4Sv-BgZ_Y3vEw7F39CgyB_xBojE39CwwD_qCwtHv7F4rBw3CgrC3kCoxC_qC4kCv-BorKnyJojE32Dg9D32DojE_8Do4Bv-BwlBvlBgrC_qCgZ_Y49C39Co8E3vE4kCv-Bw-B_YwlBAwlBoGofoGofwMo4BgyBwlBoxC4rBw3CwlB49C4rBoqDw-BwiFgyBojEgZoqDgZoqDwMwwDA42DvMg9D_YwwDnfw3Cv-BoqDv-BgrC_qCw-BnxC4rB_qCwM39CnGnxCvlB_qCn4Bn4BnxCn4B39C_xB32Dnf32D3rB_1E_xBn8EvM_jDnfn1F3S_jD_Y3vEvMv-B_Y_8DnfvpE_jD3mQ_8DvrS_xB36G3sIn2lB3hGvsZ3lJ_vlBvpE34R_8D3mQvMv-Bnf_1EvMv-BnuG_8cvpE3uWnjEv2UvpEvzYvlBnnH_xBn5I_1EvtgBvwDnxbn4BvgQvlB_2L3S3-J3Sv4JvM_oNnG_oNwMv8M4SvjM4rB3xS49CvvVwMnxCw-BnrKo4BnyJwlB_uFwlB_nG4kC_kKoxCvxKof32Dw3Cn5Io4B3hGouGnwU4kC_nG4kCnuGgkDvmIwpEvqL4rBvwDoG3Sof39CoyJn_Zw-Bn1F42DvxKojE_2LgyBn8Ew-B_uFwwDvqLgvFn-S4S3kCw-BvtHg6HvpdojE3_Qg9DvyR42DnlSojEntY4S_jDwM3kCgrCnoOgyB3lJwlB_yI4S3vEo4B_hOw-Bn-Sof3-JgyBnhPwlBvkT4rBvsZgZn-SoG3yZAn-S3SvkTnG_1EvM_2LnGnxCvlB_sQ_xB31V3hG3jmCvM3oFnG_jDnGv-BvMn8E_qCvsZnG_jD_Yv4JvlBvjM_YnyJ3S_gHnG_qCvMn1F3rB_6OvlBnvNv-B_pUv3C_tXv-B_6OnxC_lRnfn1FvlB_gHn4B_kKvM3kC_1En0XvM_nG3kCv4JvMv3C_qCvqL_qC3pMv-Bv_I3S_jDv-B_kKvlBnuGn4BvtH39CnkL_qCnuG3kC_uF_qC3oF_qC3oFv3C3oFv3CviFnqDviFnqDn8E36Gv_InnH_5HnnH_5H3hG36G_qCnxC39CnqD_xBv-BvlB_xBvlBn4Bnfn4B_Yn4Bnf_qC_Y3kC_YnxC_Y39C3S_jDvM39CnGnxCAv-BoGv3CoGv3CoG_jDwM32DwM32DwM_8DoGnxCoGnxCoG_jDoG_8DA_xBA3rBnGvwDnG_8D3rB_nG3S32D3S3kC3Sv-B_Y3kC_Y3kC_Yv-Bnf_qCvlB_qCvlB3kCvwD3hGv-B3oF_xBvpE3S3kCvM_xBnGnxCA_qCoG_xBwMv-BgZv3C4rBviFw-B_jD49Cn8EwwDn1Fo4B_jDoxC3vEw-B3vEw-B_1Eo4B3vE32DvwDvwDvwD_xBvMv-BwMn4BgyBnqDg2E",
+          "transport": {
+            "mode": "bus",
+            "name": "304",
+            "category": "Bus",
+            "headsign": "Kirchberg, Gare routi\u00e8re Luxexpo",
+            "shortName": "304"
+          },
+          "agency": {
+            "id": "68498_6b86b27",
+            "name": "R\u00e9gime G\u00e9n\u00e9ral des Transports Routiers",
+            "website": "https://www.mobiliteit.lu/"
+          }
+        },
+        {
+          "id": "R0-S2",
+          "type": "pedestrian",
+          "departure": {
+            "time": "2025-02-06T08:17:00+01:00",
+            "place": {
+              "name": "Kirchberg, Gare routi\u00e8re Luxexpo",
+              "type": "station",
+              "location": {
+                "lat": 49.636375,
+                "lng": 6.174766
+              },
+              "id": "68498_4936"
+            }
+          },
+          "arrival": {
+            "time": "2025-02-06T08:19:00+01:00",
+            "place": {
+              "name": "Kirchberg, Luxexpo Quai 5",
+              "type": "station",
+              "location": {
+                "lat": 49.636883,
+                "lng": 6.174931
+              },
+              "id": "68498_4937"
+            }
+          },
+          "polyline": "BGu7y1-Cq874LmBmL",
+          "transport": {
+            "mode": "pedestrian"
+          }
+        },
+        {
+          "id": "R0-S3",
+          "type": "transit",
+          "departure": {
+            "time": "2025-02-06T08:19:00+01:00",
+            "place": {
+              "name": "Kirchberg, Luxexpo Quai 5",
+              "type": "station",
+              "location": {
+                "lat": 49.636883,
+                "lng": 6.174931
+              },
+              "id": "68498_4937"
+            }
+          },
+          "arrival": {
+            "time": "2025-02-06T08:37:00+01:00",
+            "place": {
+              "name": "Luxembourg/Centre, Monterey",
+              "type": "station",
+              "location": {
+                "lat": 49.610454,
+                "lng": 6.125013
+              },
+              "id": "68498_6247"
+            }
+          },
+          "polyline": "BHo-83ydgr641Dw-B_1Eo4B3vE32DvwDvwDvwD_xBvMv-BwMn4BgyBnqDg2E3zHglK3kC49Cn4BwlBnxC3SvpE_uF32D3hG3rB3kC_xB_qC3sI37NvhX3plB3rBnxCw-B39C4rB3kCg-K_sQg2E_gHo1F3sIgvF_5H4sInkLgyB3kCgrC42Dw-BoqD8zB0rC7zBzrCv-BnqD_qC32Dn1F3lJ_8D3hGv3CnjEviF3zH_xB_qC_jDn8E_qC3oFnxCvpE3kC_jDnqD_1En4Bv3C_xBnqDA_xBvM3rBof3oFwlBv7FA36GnG_5H_Y3hGnf_gH3rB_nG_Y_8D_YnxCnxC3zH_qC_uF_qCn8En4BnqD3kC3vE_xBv3Cv3C_1En4Bv3CzhCjsD7VzjB39C32D3oFnnHvM3Sv4J33KvwDvwD_hOnhP32Dn1F3oF_5HvM3SnxC_1Ev-BnqDvlBv3CvmDv3HvvB_yD39C36GvxKvla_1Ev8MnxC_gHvlBnxCnf_qC3rBvwDn4BnjEvwD_5Hn1F_oNnxCv7F_8D_yIrOvgBroDnsHnf3kCvxK35Y33KvsZ39Cv0Gv-B_1Enf3kCvlBv3C_1E_2L3oFvjMvlB39C39CvtHzPrnBriBz1C3rBv3C_qCv3CnfnxCnqD_5H3vE3-J3lJvoWnjE_yI_1Ev_InqD3hG3rB_qCn4Bv3CnGn4Bnfn4B3rB3kCn4Bv3CvpEnnHnnH_2L32Dn1F_jD32Dv3C_qCvwDv3Cnf3Sv3Cn4Bv3C_xB_qCvlB3SvM7LzF7qDzyBn4Bnfv7Fv3C_1E_qCnqD_xBvwDv-B_qCnfvwD_xB_YnGvpE_xBnxC_YvlBvMvlBvMv3CvlBn8En8dn4BnvNvM_qCrd_nGzU3vEvM3kCnGnf_qC_oNn4BvxKvM3kCnxCvgQvlB3sI3SviF3S32DvMvwDnG_qC_YviF_xB_kKnGvlBvMnxCnG3kCnGvlBvMv3C39C3qT3SnjEvMv3CvM_jDnfv-BvM_jD3rB3lJvlBvtH3rB3lJv-Bn2MvM_jDnfn1FwM39CnGnqD3SvwDnfgZnfgZ_Y4S_YwMv3CgyB_gHwpEnnH42DznEonCz8Go0DvwDo4BnkL4oFnvN4zHnqDo4Bn4B3-Jnfn8E_qCnvNvM_qC_YnxC_Y_xBnf_YvlB_Y3rB3SvwD3Sn8EA_1EAviFnGvwDAnqDoGnfoGrqHsxBjDUn8EgZvwDwM39CwM39CwM32DwMv8C_iV",
+          "transport": {
+            "mode": "bus",
+            "name": "6",
+            "category": "Bus",
+            "headsign": "Bertrange, Gemeng",
+            "shortName": "6",
+            "wheelchairAccessible": "yes"
+          },
+          "agency": {
+            "id": "68498_e7f6c01",
+            "name": "Ville de Luxembourg - Service Autobus",
+            "website": "https://www.mobiliteit.lu/"
+          }
+        },
+        {
+          "id": "R0-S4",
+          "type": "pedestrian",
+          "departure": {
+            "time": "2025-02-06T08:37:00+01:00",
+            "place": {
+              "name": "Luxembourg/Centre, Monterey",
+              "type": "station",
+              "location": {
+                "lat": 49.610454,
+                "lng": 6.125013
+              },
+              "id": "68498_6247"
+            }
+          },
+          "arrival": {
+            "time": "2025-02-06T08:44:00+01:00",
+            "place": {
+              "type": "place",
+              "location": {
+                "lat": 49.61,
+                "lng": 6.13
+              }
+            }
+          },
+          "polyline": "BGgs_z-C4961LoJwjCwCoLnG7BjIT7LoBjS8BU8GoB0oBTk_BoB0tBoBk1BU0Fe8Q",
+          "transport": {
+            "mode": "pedestrian"
+          }
+        }
+      ]
+    }
+  ]
+}
